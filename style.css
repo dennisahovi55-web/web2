@@ -14,7 +14,7 @@ body{
     border: 1px solid black;
     border-radius: 10px;
     margin: 5px;
-    width: 50px;
+    width: 130px;
     padding: 5px 5px;
 }
 button[type="submit"]{
@@ -34,7 +34,7 @@ button[type="submit"]:hover{
     background: linear-gradient(180deg, rgb(127, 127, 233), rgb(248, 197, 102));
     padding: 50px;
     box-shadow: 3px 3px 5px grey;
-    min-width: 200px;
+    min-width: 280px;
     display: flex;
     flex-direction: column;
     align-items: center;
